@@ -1,4 +1,6 @@
 # Network-socket
+## 程式碼操作說明
+- 若在同一台電腦上跑android studio，由於兩個模擬器的IP地址完全一樣，所以要實現模擬器間的通信，使用模擬器的IP地址是辦不到的。請務必用adb device映射到不同地址。
 ## 功能介紹
 - 以JAVA android去呈現Socket通訊
 - 像一般的聊天室一樣可以接受多個client同時在線聊天。
@@ -24,6 +26,7 @@
 - ![image](https://user-images.githubusercontent.com/69389836/233754835-38cc7192-0687-4354-b247-e1cc75acf331.png) 
 - ![image](https://user-images.githubusercontent.com/69389836/233754864-40bc4d6d-0b5b-451a-b39b-dbcb76f0bfc7.png)
 - ![image](https://user-images.githubusercontent.com/69389836/233754879-da4ec7fb-24a9-4133-b818-03729b296c99.png)
+- ![image](https://user-images.githubusercontent.com/69389836/233754937-359cfeb8-137c-49e6-a762-4fe63a7da2cc.png)
 - ![image](https://user-images.githubusercontent.com/69389836/233754787-de9ca63b-28ef-423f-ac15-6957b5ec00ab.png)
 - ![image](https://user-images.githubusercontent.com/69389836/233754802-09771198-ad85-4dc0-9489-07123152df21.png)
 - ![image](https://user-images.githubusercontent.com/69389836/233754810-03f6971d-982b-45f7-876d-ff6591e285af.png)
