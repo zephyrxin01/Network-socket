@@ -21,13 +21,10 @@
 		  - sendThread: sendBtn被觸發時會執行，若是成功，則會先傳輸CLIENT_NAME，然後再傳送要傳送的message，送出後會將原本etMessage內的文字清掉，以便下一次的傳輸。
 		  - leaveBtn被觸發則會傳送bye到server，並且離開第二頁回到主頁的登入頁面
 ## demo
-- ![螢幕擷取畫面_20230113_024722](https://user-images.githubusercontent.com/69389836/233754639-c0d5986e-4350-47c7-b3a3-f315899d49a9.png)
-- ![螢幕擷取畫面_20230113_024730](https://user-images.githubusercontent.com/69389836/233754645-acb363cf-dd1e-4508-a53e-643bfed456bd.png)
-- ![螢幕擷取畫面_20230113_024858](https://user-images.githubusercontent.com/69389836/233754651-39b243e4-8c8c-4c24-884d-43a0191c5657.png)
-- ![螢幕擷取畫面_20230113_024907](https://user-images.githubusercontent.com/69389836/233754654-5244050e-a639-4d3e-95a6-54b432f97ca7.png)
-- ![螢幕擷取畫面_20230113_024914](https://user-images.githubusercontent.com/69389836/233754656-42a6a4f9-9f91-409b-957c-0126104c7a05.png)
-- ![螢幕擷取畫面_20230113_025017](https://user-images.githubusercontent.com/69389836/233754660-51c8f1ca-d539-4ab4-886a-3cca9c08a8e6.png)
-- ![螢幕擷取畫面_20230113_025026](https://user-images.githubusercontent.com/69389836/233754668-7d99b127-73ae-47f4-934f-7f246f87bc45.png)
-- ![螢幕擷取畫面_20230113_025226](https://user-images.githubusercontent.com/69389836/233754673-5089b608-9e6f-45a9-8780-3c9e030f2861.png)
-- ![螢幕擷取畫面_20230113_025233](https://user-images.githubusercontent.com/69389836/233754678-b1c8795d-a4a5-4693-9da0-88bad31907f1.png)
-- ![螢幕擷取畫面_20230113_025259](https://user-images.githubusercontent.com/69389836/233754682-6799c825-6a28-43ab-ac7d-15a1b37f4130.png)
+- ![image](https://user-images.githubusercontent.com/69389836/233754835-38cc7192-0687-4354-b247-e1cc75acf331.png) 
+- ![image](https://user-images.githubusercontent.com/69389836/233754864-40bc4d6d-0b5b-451a-b39b-dbcb76f0bfc7.png)
+- ![image](https://user-images.githubusercontent.com/69389836/233754879-da4ec7fb-24a9-4133-b818-03729b296c99.png)
+- ![image](https://user-images.githubusercontent.com/69389836/233754787-de9ca63b-28ef-423f-ac15-6957b5ec00ab.png)
+- ![image](https://user-images.githubusercontent.com/69389836/233754802-09771198-ad85-4dc0-9489-07123152df21.png)
+- ![image](https://user-images.githubusercontent.com/69389836/233754810-03f6971d-982b-45f7-876d-ff6591e285af.png)
+
